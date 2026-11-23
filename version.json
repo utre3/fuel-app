@@ -1,9 +1,10 @@
 {
-  "version": "1.0.15",
-  "url": "bundles/1.0.15.zip",
-  "checksum": "5cab051fbd38db3a4c63d4efccfdd19de0f096cf7ff176cf0345e4a198849798",
-  "notes": "• Birth date instead of age: your age (and calorie target) now stays exact and updates on your birthday. Add it in Settings → Profile & goal.",
-  "nativeVersion": 5,
+  "version": "1.0.18",
+  "url": "bundles/1.0.18.zip",
+  "checksum": "cc609d827fdfb5d52220fe9a4ff6392be516a95989b562c06e8fcbe27dbd96e0",
+  "notes": "New: Cut mode, a full fat loss plan with workouts, meals and a weekly coach. Smaller app, new icon.",
+  "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-11T12:36:29.913Z"
+  "date": "2026-11-23T19:19:11.909Z",
+  "sig": "MRJJWdP9nU2N5YztUefr493x69sfdG+BX3cvQprMUxPGWJ4TEVGclYsYpRV6Vmg6owNRVcJNcIMTgMPTUhtddQ=="
 }
