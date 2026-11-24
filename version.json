@@ -1,10 +1,10 @@
 {
-  "version": "1.0.18",
-  "url": "bundles/1.0.18.zip",
-  "checksum": "cc609d827fdfb5d52220fe9a4ff6392be516a95989b562c06e8fcbe27dbd96e0",
-  "notes": "New: Cut mode, a full fat loss plan with workouts, meals and a weekly coach. Smaller app, new icon.",
+  "version": "1.0.19",
+  "url": "bundles/1.0.19.zip",
+  "checksum": "61d2ef2403978089d43c87fe0da20ff2a6645a04c79c485bdf1b26b0bd6f5c08",
+  "notes": "Fixes and improvements: Cut mode now counts every weigh-in, shows weeks left, lets you swap meals, and its coach checks your logging before cutting calories. New: copy yesterday's food in one tap.",
   "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-23T19:19:11.909Z",
-  "sig": "MRJJWdP9nU2N5YztUefr493x69sfdG+BX3cvQprMUxPGWJ4TEVGclYsYpRV6Vmg6owNRVcJNcIMTgMPTUhtddQ=="
+  "date": "2026-11-24T22:13:57.538Z",
+  "sig": "ZbWRrFqc2jn7INjCU76ZiUHiMJPZ7LZfa/CDqwRUczg16ML5g+NyIzci1zquMI/i/7foukpMH9Z9UrC23xPuyg=="
 }
