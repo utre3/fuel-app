@@ -1,10 +1,10 @@
 {
-  "version": "1.0.21",
-  "url": "bundles/1.0.21.zip",
-  "checksum": "ce9d00b06e2d573b9611ef32f5e87a23590ea5264904782b64f5a8057c173920",
-  "notes": "New: export just your saved foods (Settings → Data) to share them or move them to another phone. Importing a foods file adds them without changing anything else.",
+  "version": "1.0.22",
+  "url": "bundles/1.0.22.zip",
+  "checksum": "e7ab50b269c9fa2d13a7eb4e886afd0849ec8b163b634aab0fedd5c2652d5f22",
+  "notes": "Cut mode is much faster now: up to 1.5% a week, no forced diet breaks. AI sets up your training and meals from a simple description. New body fat guide, time-to-goal on every setup step, and a 'lose fat fast' option when you start.",
   "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-25T19:52:05.048Z",
-  "sig": "ebznpifWRXNeC3DL3H7cPkxQADAopSHbDmW6Mr6LwkyJCiPkpdCX4mX1Kfqxf/KuJRBkf/nyG4EWsOSU1xjkMg=="
+  "date": "2026-11-25T20:15:03.659Z",
+  "sig": "PqUZGYQRkVJijSCAfyUhlzSO+og8Uqdc6JT/xiXAY3Ng+U7OALjksp7ugzk6fm6MohAfDoH2Qfo8ud1OBkezZg=="
 }
