@@ -1,10 +1,10 @@
 {
-  "version": "1.0.19",
-  "url": "bundles/1.0.19.zip",
-  "checksum": "61d2ef2403978089d43c87fe0da20ff2a6645a04c79c485bdf1b26b0bd6f5c08",
-  "notes": "Fixes and improvements: Cut mode now counts every weigh-in, shows weeks left, lets you swap meals, and its coach checks your logging before cutting calories. New: copy yesterday's food in one tap.",
+  "version": "1.0.20",
+  "url": "bundles/1.0.20.zip",
+  "checksum": "de280e604e089c1d07e69d6c36f56dc8883185235f698048f5aa6cd5e2d792b0",
+  "notes": "Cut mode is now its own app: a new dark fire-orange look, a CUT MODE home screen and its own Train, Eat and Stats tabs. Switch back to normal mode any time in Settings.",
   "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-24T22:13:57.538Z",
-  "sig": "ZbWRrFqc2jn7INjCU76ZiUHiMJPZ7LZfa/CDqwRUczg16ML5g+NyIzci1zquMI/i/7foukpMH9Z9UrC23xPuyg=="
+  "date": "2026-11-25T19:30:38.232Z",
+  "sig": "G5mdK5tHt0nj/9MH5LR0VU9FD079Cgev4c+HjNAWMlumalfDyTY6/kJ79aFMUsLrpQ1Copou7XJSA7RtweV4yA=="
 }
