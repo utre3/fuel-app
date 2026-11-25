@@ -1,10 +1,10 @@
 {
-  "version": "1.0.20",
-  "url": "bundles/1.0.20.zip",
-  "checksum": "de280e604e089c1d07e69d6c36f56dc8883185235f698048f5aa6cd5e2d792b0",
-  "notes": "Cut mode is now its own app: a new dark fire-orange look, a CUT MODE home screen and its own Train, Eat and Stats tabs. Switch back to normal mode any time in Settings.",
+  "version": "1.0.21",
+  "url": "bundles/1.0.21.zip",
+  "checksum": "ce9d00b06e2d573b9611ef32f5e87a23590ea5264904782b64f5a8057c173920",
+  "notes": "New: export just your saved foods (Settings → Data) to share them or move them to another phone. Importing a foods file adds them without changing anything else.",
   "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-25T19:30:38.232Z",
-  "sig": "G5mdK5tHt0nj/9MH5LR0VU9FD079Cgev4c+HjNAWMlumalfDyTY6/kJ79aFMUsLrpQ1Copou7XJSA7RtweV4yA=="
+  "date": "2026-11-25T19:52:05.048Z",
+  "sig": "ebznpifWRXNeC3DL3H7cPkxQADAopSHbDmW6Mr6LwkyJCiPkpdCX4mX1Kfqxf/KuJRBkf/nyG4EWsOSU1xjkMg=="
 }
