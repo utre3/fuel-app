@@ -1,10 +1,10 @@
 {
-  "version": "1.0.22",
-  "url": "bundles/1.0.22.zip",
-  "checksum": "e7ab50b269c9fa2d13a7eb4e886afd0849ec8b163b634aab0fedd5c2652d5f22",
-  "notes": "Cut mode is much faster now: up to 1.5% a week, no forced diet breaks. AI sets up your training and meals from a simple description. New body fat guide, time-to-goal on every setup step, and a 'lose fat fast' option when you start.",
+  "version": "1.0.23",
+  "url": "bundles/1.0.23.zip",
+  "checksum": "0787484a0436559b8dfe007226a4f71b22e1b7aa55850edc89f3fd3939091bf6",
+  "notes": "Faster cuts for everyone: speeds are now 1%, 1.5% and 2% a week with no diet breaks, and daily cardio is part of the plan, with the time to your goal updating as you choose.",
   "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-25T20:15:03.659Z",
-  "sig": "PqUZGYQRkVJijSCAfyUhlzSO+og8Uqdc6JT/xiXAY3Ng+U7OALjksp7ugzk6fm6MohAfDoH2Qfo8ud1OBkezZg=="
+  "date": "2026-11-25T20:23:26.868Z",
+  "sig": "Cj9kfKCKW7cL23EjmvHA9tFSPsvEVKXQYCBxKheMT0ntSnIOqpyNkeuIGZj/ETpwgY0pKuuM9TW1F2pwLADu1Q=="
 }
