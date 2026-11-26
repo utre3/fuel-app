@@ -1,10 +1,10 @@
 {
-  "version": "1.0.24",
-  "url": "bundles/1.0.24.zip",
-  "checksum": "4e6ad872e07cc0f22ce169031911f9f553826a0cc2381d633d03bd7eab60b468",
-  "notes": "Faster cuts with no speed limit, less protein, and your own meals and workouts: make any meal your own, swap or replace any exercise, or follow your own program.",
+  "version": "1.0.25",
+  "url": "bundles/1.0.25.zip",
+  "checksum": "59308fe09aeff04649afd2af80197b85a8df5148f5274178b5070e7f692ce724",
+  "notes": "MAX is now always the fastest. No meal plan: eat anything that fits your calories and protein. The AI now designs your workouts with any exercises you have access to.",
   "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-26T19:30:28.848Z",
-  "sig": "GTGqowNSOzIBu/fRIDjKZFxwO0hpWuQ0MW+B7TvBWVsF8lV3tKMWZWJcJJT30qS3HGRLgIob0pNPJb65TTkYTw=="
+  "date": "2026-11-26T19:42:37.491Z",
+  "sig": "bigfkVEN0/W8hMv53UrNtxyOQHrqxw5aKwSbqoM8fd8blEfI6wVY1Cr8dRPXjAPoVkZeRLRRCenMQ2+KbElWMg=="
 }
