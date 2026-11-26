@@ -1,10 +1,10 @@
 {
-  "version": "1.0.23",
-  "url": "bundles/1.0.23.zip",
-  "checksum": "0787484a0436559b8dfe007226a4f71b22e1b7aa55850edc89f3fd3939091bf6",
-  "notes": "Faster cuts for everyone: speeds are now 1%, 1.5% and 2% a week with no diet breaks, and daily cardio is part of the plan, with the time to your goal updating as you choose.",
+  "version": "1.0.24",
+  "url": "bundles/1.0.24.zip",
+  "checksum": "4e6ad872e07cc0f22ce169031911f9f553826a0cc2381d633d03bd7eab60b468",
+  "notes": "Faster cuts with no speed limit, less protein, and your own meals and workouts: make any meal your own, swap or replace any exercise, or follow your own program.",
   "nativeVersion": 6,
   "apkUrl": "fuel.apk",
-  "date": "2026-11-25T20:23:26.868Z",
-  "sig": "Cj9kfKCKW7cL23EjmvHA9tFSPsvEVKXQYCBxKheMT0ntSnIOqpyNkeuIGZj/ETpwgY0pKuuM9TW1F2pwLADu1Q=="
+  "date": "2026-11-26T19:30:28.848Z",
+  "sig": "GTGqowNSOzIBu/fRIDjKZFxwO0hpWuQ0MW+B7TvBWVsF8lV3tKMWZWJcJJT30qS3HGRLgIob0pNPJb65TTkYTw=="
 }
